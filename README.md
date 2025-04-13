@@ -1,5 +1,5 @@
 # README.md
-# ¡Hola! 👋 Soy Leonel
+# ¡Hola! 👋 Soy Leonel   
 
 ### 🔥 Sobre mí  
 - 🎂 Tengo 14/15 años y me apasiona la programación.  
@@ -10,6 +10,7 @@
 | Proyecto       | Descripción          | Tecnologías   |  
 |----------------|----------------------|--------------|  
 | [Calculadora](enlace) | Calculadora con GUI | Python, Tkinter |  
-| [Web Climática](enlace) | App del clima |
+| [Web Climática](enlace) | App del clima | HTML, CSS, JS |  
 
-📫 ¿Quieres contactarme? ¡Escríbeme a leoneldiaz2333@gmail.com 
+📫 ¿Quieres contactarme? ¡Escríbeme a leoneldiaz2333@gmail.com !  
+
